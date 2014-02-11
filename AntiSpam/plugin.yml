@@ -1,0 +1,4 @@
+name: DakadoAntiSpam
+version: 1.0
+author: Dakado
+main: vip.production.dakado.antispam.AntiSpam
