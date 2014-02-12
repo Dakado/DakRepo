@@ -1,0 +1,7 @@
+name: ConnectionLimit
+main: gameteam.connection.limit.Limit
+author: Dakado
+version: 1.0
+commands:
+   limit:
+      description: Nastavi limit pripojeni za vterinu!
